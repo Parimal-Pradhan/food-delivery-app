@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Welcome
-=======
-Welcome to UV
->>>>>>> 0169a1713a43679df1f2301acaa1e88f8bb43102
+Welcome parimal
